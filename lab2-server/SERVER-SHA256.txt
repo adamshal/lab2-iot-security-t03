@@ -1,0 +1,1 @@
+5ae6af5fa57b00dce527eb899b8774b1ada7c5778731f46e356ab6695d959277  firmware/server/zephyr.hex
