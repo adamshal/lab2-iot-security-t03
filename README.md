@@ -6,8 +6,8 @@ ESE5180: IoT Wireless, Security, & Scaling
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
-| [Name 1]         | [Email 1]           |
-| [Name 2]         | [Email 2]           |
+| Adam Shalabi         | adamshal@engineering.upenn.edu          |
+| Lori Brown         | blor@engineering.upenn.edu           |
 
 **GitHub Repository URL:**
 
