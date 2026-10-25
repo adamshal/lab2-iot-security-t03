@@ -9,7 +9,7 @@ ESE5180: IoT Wireless, Security, & Scaling
 | Adam Shalabi         | adamshal@engineering.upenn.edu          |
 | Lori Brown         | blor@engineering.upenn.edu           |
 
-**GitHub Repository URL:**
+**GitHub Repository URL:** https://github.com/adamshal/lab2-iot-security-t03
 
 **Lab dependencies:** https://github.com/ese5180/ESE5180-Lab-Dependencies
 
